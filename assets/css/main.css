@@ -1665,3 +1665,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+.terminal {
+	text-align: center;
+	margin-top: 25%;
+}
