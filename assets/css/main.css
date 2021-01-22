@@ -1669,3 +1669,8 @@ input, select, textarea {
 	text-align: center;
 	margin-top: 25%;
 }
+
+.resume {
+	text-decoration: none;
+	padding: 30px;
+}
